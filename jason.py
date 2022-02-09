@@ -6,7 +6,7 @@ class Person:
         self.age = age
         self.gender = gender
 
-p1 = Person("ayush",23,"M")
+p1 = Person("sourav",19,"M")
 js = json.dumps(p1.__dict__)
 print(js)
 

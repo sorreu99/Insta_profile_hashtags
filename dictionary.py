@@ -1,6 +1,6 @@
 details = {
-    "name" : "ayush",
-    "age" : 23,
+    "name" : "sourav",
+    "age" : 19,
     "gender": "male"
 }
 print(details[0])
